@@ -1,0 +1,16 @@
+#content{
+
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.homeImg{
+    width: 1000px;
+    height: 400px;
+}
